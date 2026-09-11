@@ -2,8 +2,7 @@
 
 End-to-end sales analytics and KPI dashboard built using Google Sheets.
 
-Click here to view live google sheet project 
-https://docs.google.com/spreadsheets/d/1Lmi6Mv6NmkUpeb1fp1-KiVI_5NdhVrRE7MSppD5zSyo/edit?usp=drivesdk
+🔗 **[Click Here to View Live Google Sheet Project](https://docs.google.com/spreadsheets/d/1Lmi6Mv6NmkUpeb1fp1-KiVI_5NdhVrRE7MSppD5zSyo/edit?usp=drivesdk)
 
 ## 📊 Dashboard Preview
 ![Dashboard Preview](dashboard.retail.png)
